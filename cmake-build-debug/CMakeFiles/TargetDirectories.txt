@@ -1,3 +1,0 @@
-D:/Projects/C/matrix-multiplication.9.11.2024/cmake-build-debug/CMakeFiles/C.dir
-D:/Projects/C/matrix-multiplication.9.11.2024/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Projects/C/matrix-multiplication.9.11.2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
